@@ -1,0 +1,13 @@
+h1 {
+  font-size: 70px;
+
+  color: red;
+
+  font-weight: bold;
+}
+
+button {
+  padding: 30px 50px;
+  font-size: 20px;
+  cursor: pointer;
+}
